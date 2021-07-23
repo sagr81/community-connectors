@@ -1,0 +1,25 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "BigQuery",
+        "version": "v2",
+        "serviceId": "bigquery"
+      }
+    ]
+  },
+  "dataStudio": {
+    "name": "SG test - DDL BigQuery - write data into tables",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+    "company": "An user! No company! No warranty!",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Execute DDL in BigQuery or insert data into BigQuery tables. This is NO google product! Use it on your responsible!",
+    "sources": [],
+    "useQueryConfig": false
+  }
+}
