@@ -1,6 +1,7 @@
 //  Copyright notice
 //
-//  (c) 2021 Samuel <g r an d th yll @ > <gmail> <.com>
+//  (c) 2021 <Samuel> <gra81> < @ > <gmail> <.com> 
+// (remove brackets and spaces for e-mail, samuelgra81 )
 //
 //  All rights reserved
 //
